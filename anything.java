@@ -1,3 +1,3 @@
 public class anything {
-    int num = 20;
+    int num = 10;
 }
